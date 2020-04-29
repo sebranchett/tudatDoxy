@@ -11,6 +11,7 @@ jobs:
     - name: Make a directory for the build
       run: |
         mkdir build
+        cp Doxyfile.in build
 
     - name: Build doxygen docs
       uses: mattnotmitt/doxygen-action@v1
