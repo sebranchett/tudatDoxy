@@ -15,7 +15,7 @@ jobs:
         doxyfile-path: '.'
 
     - name: Check output
-      run |
+      run: |
         ls -l
         ls -l build
 
