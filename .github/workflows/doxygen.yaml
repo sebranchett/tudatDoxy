@@ -11,8 +11,9 @@ jobs:
     - name: Build doxygen docs
       uses: mattnotmitt/doxygen-action@v1
       with:
-        working-directory: 'Tudat/'
+        working-directory: '.'
         doxyfile-path: '.'
+        # working-directory: 'Tudat/'
 
     - name: Check output
       run: |
