@@ -11,9 +11,8 @@ jobs:
     - name: Build doxygen docs
       uses: mattnotmitt/doxygen-action@v1
       with:
-        working-directory: '.'
+        working-directory: 'Tudat/'
         doxyfile-path: '.'
-        # working-directory: 'Tudat/'
 
     - name: Check output
       run: |
@@ -24,5 +23,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./html
-        # publish_dir: ./Tudat/html
+        publish_dir: ./Tudat/html
