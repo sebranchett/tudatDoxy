@@ -24,8 +24,8 @@ var searchData=
   ['aerodynamicforce_2ecpp',['aerodynamicForce.cpp',['../d1/d21/aerodynamic_force_8cpp.html',1,'']]],
   ['aerodynamicforce_2eh',['aerodynamicForce.h',['../d1/dc2/aerodynamic_force_8h.html',1,'']]],
   ['aerodynamicguidance_2eh',['aerodynamicGuidance.h',['../d8/d54/aerodynamic_guidance_8h.html',1,'']]],
-  ['aerodynamics_2ecpp',['aerodynamics.cpp',['../df/d3e/_astrodynamics_2_aerodynamics_2aerodynamics_8cpp.html',1,'']]],
-  ['aerodynamics_2eh',['aerodynamics.h',['../d2/d1e/_astrodynamics_2_aerodynamics_2aerodynamics_8h.html',1,'']]],
+  ['aerodynamics_2ecpp',['aerodynamics.cpp',['../df/d3e/_astrodynamics_2_aerodynamics_2aerodynamics_8cpp.html',1,'(Global Namespace)'],['../d7/de3/_json_interface_2_environment_2aerodynamics_8cpp.html',1,'(Global Namespace)']]],
+  ['aerodynamics_2eh',['aerodynamics.h',['../d2/d1e/_astrodynamics_2_aerodynamics_2aerodynamics_8h.html',1,'(Global Namespace)'],['../d2/db5/_json_interface_2_environment_2aerodynamics_8h.html',1,'(Global Namespace)']]],
   ['aerodynamictorque_2ecpp',['aerodynamicTorque.cpp',['../dc/deb/aerodynamic_torque_8cpp.html',1,'']]],
   ['aerodynamictorque_2eh',['aerodynamicTorque.h',['../da/d55/aerodynamic_torque_8h.html',1,'']]],
   ['angularpositionobservationmodel_2eh',['angularPositionObservationModel.h',['../dd/d18/angular_position_observation_model_8h.html',1,'']]],
@@ -46,8 +46,5 @@ var searchData=
   ['atmosphere_2eh',['atmosphere.h',['../d2/dec/atmosphere_8h.html',1,'']]],
   ['atmospheremodel_2eh',['atmosphereModel.h',['../de/dc3/atmosphere_model_8h.html',1,'']]],
   ['attitudeelementconversions_2ecpp',['attitudeElementConversions.cpp',['../db/d7b/attitude_element_conversions_8cpp.html',1,'']]],
-  ['attitudeelementconversions_2eh',['attitudeElementConversions.h',['../d1/d43/attitude_element_conversions_8h.html',1,'']]],
-  ['ephemeris_2ecpp',['ephemeris.cpp',['../d3/d18/_astrodynamics_2_ephemerides_2ephemeris_8cpp.html',1,'']]],
-  ['ephemeris_2eh',['ephemeris.h',['../d0/dca/_astrodynamics_2_ephemerides_2ephemeris_8h.html',1,'']]],
-  ['massratemodel_2eh',['massRateModel.h',['../d9/d06/_astrodynamics_2_basic_astrodynamics_2mass_rate_model_8h.html',1,'']]]
+  ['attitudeelementconversions_2eh',['attitudeElementConversions.h',['../d1/d43/attitude_element_conversions_8h.html',1,'']]]
 ];

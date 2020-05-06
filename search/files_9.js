@@ -1,11 +1,5 @@
 var searchData=
 [
-  ['aerodynamics_2ecpp',['aerodynamics.cpp',['../d7/de3/_json_interface_2_environment_2aerodynamics_8cpp.html',1,'']]],
-  ['aerodynamics_2eh',['aerodynamics.h',['../d2/db5/_json_interface_2_environment_2aerodynamics_8h.html',1,'']]],
-  ['body_2ecpp',['body.cpp',['../de/db9/_json_interface_2_environment_2body_8cpp.html',1,'']]],
-  ['body_2eh',['body.h',['../d0/d09/_json_interface_2_environment_2body_8h.html',1,'']]],
-  ['ephemeris_2ecpp',['ephemeris.cpp',['../d1/d88/_json_interface_2_environment_2ephemeris_8cpp.html',1,'']]],
-  ['ephemeris_2eh',['ephemeris.h',['../d1/df7/_json_interface_2_environment_2ephemeris_8h.html',1,'']]],
   ['jacobienergy_2ecpp',['jacobiEnergy.cpp',['../da/d87/jacobi_energy_8cpp.html',1,'']]],
   ['jacobienergy_2eh',['jacobiEnergy.h',['../d4/d10/jacobi_energy_8h.html',1,'']]],
   ['jsonestimationinterface_2ecpp',['jsonEstimationInterface.cpp',['../d4/db4/json_estimation_interface_8cpp.html',1,'']]],
@@ -15,7 +9,5 @@ var searchData=
   ['jsoninterfaceexecute_2ecpp',['jsonInterfaceExecute.cpp',['../d5/db8/json_interface_execute_8cpp.html',1,'']]],
   ['jsoninterfacevariational_2ecpp',['jsonInterfaceVariational.cpp',['../d6/d6a/json_interface_variational_8cpp.html',1,'']]],
   ['jsoninterfacevariational_2eh',['jsonInterfaceVariational.h',['../d8/d48/json_interface_variational_8h.html',1,'']]],
-  ['jumpdatalinearinterpolator_2eh',['jumpDataLinearInterpolator.h',['../d1/dee/jump_data_linear_interpolator_8h.html',1,'']]],
-  ['massratemodel_2eh',['massRateModel.h',['../d8/d6e/_json_interface_2_propagation_2mass_rate_model_8h.html',1,'']]],
-  ['utilities_2eh',['utilities.h',['../d6/d35/_json_interface_2_support_2utilities_8h.html',1,'']]]
+  ['jumpdatalinearinterpolator_2eh',['jumpDataLinearInterpolator.h',['../d1/dee/jump_data_linear_interpolator_8h.html',1,'']]]
 ];
