@@ -12,10 +12,10 @@ jobs:
     - name: Install doxygen
       run: |
         sudo apt-get install -y doxygen graphviz
+        echo "::set-env name=OS_FLAGS::${{runner.workspace}}"
 
     - name: Run doxygen
       run: |
-        echo "::set-env name=OS_FLAGS::${{runner.workspace}}"
         doxygen Doxyfile.in
 
     - name: Push to gh-pages
