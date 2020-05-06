@@ -11,7 +11,7 @@ jobs:
 
     - name: Install doxygen
       run: |
-        sudo apt-get install -y doxygen graphviz
+        sudo apt-get install -y doxygen graphviz texlive-full
         echo "::set-env name=SRCROOT::${{runner.workspace}}/tudatDoxy/Tudat"
 
     - name: Run doxygen
