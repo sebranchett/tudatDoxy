@@ -1,7 +1,0 @@
-var searchData=
-[
-  ['y',['y',['../d0/d21/structtudat_1_1json__interface_1_1_keys_1_1_body_1_1_state.html#a617d8eef1cd5175b6f9a96a92ad1fc79',1,'tudat::json_interface::Keys::Body::State']]],
-  ['y_5faxis_5frotation_5fmatrix_5fderivative_5fpremultiplier',['Y_AXIS_ROTATION_MATRIX_DERIVATIVE_PREMULTIPLIER',['../d5/d98/namespacetudat_1_1reference__frames.html#a0f4abefd66ce045e70b231c1e4a27a38',1,'tudat::reference_frames']]],
-  ['year',['year',['../da/d08/structtudat_1_1aerodynamics_1_1_n_r_l_m_s_i_s_e00_input.html#a83350bb7163f51646519f9703de0d082',1,'tudat::aerodynamics::NRLMSISE00Input::year()'],['../d2/dca/structtudat_1_1input__output_1_1solar__activity_1_1_solar_activity_data.html#a13211d2b44135da501ac693398d9af21',1,'tudat::input_output::solar_activity::SolarActivityData::year()'],['../dc/dc8/namespacetudat_1_1input__output_1_1field__types_1_1time.html#a4d75f35434816d6e42964dfe3763e303',1,'tudat::input_output::field_types::time::year()']]],
-  ['ypolarmotioncoefficients_5f',['yPolarMotionCoefficients_',['../d8/dee/classtudat_1_1ephemerides_1_1_planetary_orientation_angle_calculator.html#ae453311b86a4a4a78cdc77fe7874b0b7',1,'tudat::ephemerides::PlanetaryOrientationAngleCalculator::yPolarMotionCoefficients_()'],['../d8/d4d/classtudat_1_1simulation__setup_1_1_planetary_rotation_model_settings.html#aa82f5bb2bf315fe04564c3798faf080a',1,'tudat::simulation_setup::PlanetaryRotationModelSettings::yPolarMotionCoefficients_()']]]
-];
