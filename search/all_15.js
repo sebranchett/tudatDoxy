@@ -206,6 +206,5 @@ var searchData=
   ['utc',['utc',['../d7/d0b/structtudat_1_1earth__orientation_1_1_current_times.html#a49eaceeb36c9d53b8e83a5020a94c4ef',1,'tudat::earth_orientation::CurrentTimes']]],
   ['utc_5fscale',['utc_scale',['../d2/ddc/namespacetudat_1_1basic__astrodynamics.html#ac1c2b00a3568f988227199b5f77c987ca49c34e0955fbbd8f1bfe7dd95c0677b8',1,'tudat::basic_astrodynamics']]],
   ['utilities_2ecpp',['utilities.cpp',['../de/da5/utilities_8cpp.html',1,'']]],
-  ['utilities_2eh',['utilities.h',['../d2/d81/_basics_2utilities_8h.html',1,'(Global Namespace)'],['../d6/d35/_json_interface_2_support_2utilities_8h.html',1,'(Global Namespace)']]],
   ['utilitymacros_2eh',['utilityMacros.h',['../db/d93/utility_macros_8h.html',1,'']]]
 ];
