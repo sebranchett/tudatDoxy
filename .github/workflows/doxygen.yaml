@@ -12,9 +12,11 @@ jobs:
     - name: Install doxygen
       run: |
         sudo apt-get install -y doxygen graphviz
+        echo "::set-env name=SRCROOT::${{runner.workspace}}/tudatDoxy/Tudat"
 
     - name: Run doxygen
       run: |
+        echo $SRCROOT
         doxygen Doxyfile.in
 
     - name: Push to gh-pages
