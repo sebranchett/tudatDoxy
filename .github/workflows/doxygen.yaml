@@ -12,7 +12,7 @@ jobs:
     - name: Install doxygen
       run: |
         sudo apt-get install -y doxygen graphviz
-      echo "::set-env name=SRCROOT=${{runner.workspace}}"
+        echo "::set-env name=SRCROOT::${{runner.workspace}}"
 
     - name: Run doxygen
       run: |
