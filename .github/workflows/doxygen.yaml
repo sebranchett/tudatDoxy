@@ -16,7 +16,6 @@ jobs:
 
     - name: Run doxygen
       run: |
-        echo $SRCROOT
         doxygen Doxyfile.in
 
     - name: Push to gh-pages
